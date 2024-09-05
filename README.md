@@ -1,9 +1,9 @@
-## Hi, I'm Khine Nwe Oo! 👋
+## 💫 About Me:
 
-- 💻 As a skilled Fullstack developer, I am dedicated to turning ideas into innovative web applications. You can explore my latest projects, showcasing my expertise in Laravel, VueJs, Reactjs and MERN Stack. 
+Hi, I'm Khine Nwe Oo, a Fullstack developer specializing in Laravel and VueJs. I'm dedicated to enhancing my skills to build robust and scalable web applications, with a current focus on MERN Stack. 💻
 
 <br/>
-- 🌱 I’m currently learning Data Structures and Algorithms in Javascript<br/>
+- 🌱 Learning new technologies and frameworks.<br/>
 - 📫 Reach me at: devkhinenweoo@gmail.com</br>
 - 💬 Ask me about Laravel and VueJs
 
