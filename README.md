@@ -24,10 +24,7 @@
 
 💡 Key skills: Node.js · JavaScript · PHP · Vue · React · TypeScript · Docker · GitHub Actions · Linux · CI/CD · MySQL · MongoDB · Firebase · Redis · Jest
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khinenweoo) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/khinenwel19)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@khine_nwe00) 
+---
 
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
