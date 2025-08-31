@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Khine Nwe — Full Stack Developer</h1>
 
 <p align="center">
-  Web Developer | Full Stack | CI/CD☁️🐳  
+  Web Developer | Full Stack 👩‍💻 | CI/CD ☁️🐳  <br>
   Experienced back-end service developer with proficiency in PHP, Node.js, Laravel and Express.
   Also expertise in front-end technologies, creating intuitive and visually appealing interfaces, and integrating REST API.
   I enjoy building scalable systems and automating workflows. 
