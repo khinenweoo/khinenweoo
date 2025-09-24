@@ -13,8 +13,8 @@
 
 - 👩‍💻 Full Stack Developer focused on writing clean, maintainable and efficient code
 - 🔐 Developed high-performance web applications using modern frameworks.
-- ⚙️ Built CI/CD pipelines for projects using GitHub Actions and Docker
-- ☁️ Currently learning Kubernetes, Terraform, and key AWS services 
+- ⚙️ Skilled in building CI/CD pipelines for projects using GitHub Actions, Docker, and deployment on cloud using AWS (EC2) services 
+- ☁️ Currently learning Kubernetes, Terraform, and DSA
 
 🎯 Looking for opportunities to collaborate with software engineering teams through automation.
 
